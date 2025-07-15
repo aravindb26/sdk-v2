@@ -98,11 +98,11 @@
   "dependencies": {
     "@across-protocol/across-token": "^1.0.0",
     "@across-protocol/constants-v2": "^1.0.11",
-    "@across-protocol/contracts-v2": "2.5.0-beta.5",
+    "@across-protocol/contracts-v2": "2.5.1",
     "@eth-optimism/sdk": "^3.1.8",
     "@pinata/sdk": "^2.1.0",
     "@types/mocha": "^10.0.1",
-    "@uma/sdk": "^0.34.1",
+    "@uma/sdk": "^0.34.5",
     "axios": "^0.27.2",
     "big-number": "^2.0.0",
     "decimal.js": "^10.3.1",
